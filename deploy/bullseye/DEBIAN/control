@@ -1,0 +1,8 @@
+Section:        #package_section
+Priority:       #package_priority
+Package:        #package_name_full
+Version:        #version+#build
+Description:    #package_descr
+Maintainer:     #package_maintainer
+Architecture:   #package_arch
+Depends:        #package_depends

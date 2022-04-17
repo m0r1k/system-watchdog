@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -e
+
+cd /usr/src/system-watchdog/src/
+make
+make install
+

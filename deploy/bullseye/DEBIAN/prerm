@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+rmmod system_watchdog || /bin/true
+
